@@ -45,3 +45,7 @@ And the terminal for `customers` should print out this:
 Charging customer with payment of $10 gateway ID: c1gwid
 ```
 
+
+### Credits:
+
+https://github.com/obsidiandynamics/kafdrop
