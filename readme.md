@@ -2,7 +2,7 @@
 
 This is a demonstration of how NestJS Microservices can use KafkaJS to communicate with each other and publish messages. This can be used to create eventsourced backends. 
 
-While this is a very basic implementation, this lays out the background for a more complicated setup.
+While this is a very basic implementation, this lays out the background for a more complicated setup. Patterns such as CQRS could be utilized to make this more robust.
 
 ## Inspiration:
 
