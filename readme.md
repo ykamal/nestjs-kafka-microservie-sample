@@ -4,6 +4,13 @@ This is a demonstration of how NestJS Microservices can use KafkaJS to communica
 
 This can be used to create eventsourced backends. While this is a very basic implementation, this lays out the background for a more complicated setup.
 
+## Inspiration:
+
+1. Demonstrate knowledge of backend technologies using TypeScript.
+2. Demonstrate usage of NestJS.
+3. Demonstrate usge of Kafka for `event sourcing`.
+4. Demonstrate usage of Docker.
+
 ## Description
 
 This codebase has 3 NestJS projects:
