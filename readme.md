@@ -1,8 +1,8 @@
 # NestJS Microservice Example with Kafka
 
-This is a demonstration of how NestJS Microservices can use KafkaJS to communicate with each other and publish messages.
+This is a demonstration of how NestJS Microservices can use KafkaJS to communicate with each other and publish messages. This can be used to create eventsourced backends. 
 
-This can be used to create eventsourced backends. While this is a very basic implementation, this lays out the background for a more complicated setup.
+While this is a very basic implementation, this lays out the background for a more complicated setup.
 
 ## Inspiration:
 
