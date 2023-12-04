@@ -32,7 +32,7 @@ Wait for all the services to boot up and connect to Kafka.
 
 Once all 3 services are running, you can use Postman/Insomnia to send a POST request to http://localhost:3000 with the following input:
 
-```
+```json
 {
 	"customerId": "customer1",
 	"amount": 10
@@ -41,7 +41,7 @@ Once all 3 services are running, you can use Postman/Insomnia to send a POST req
 
 And the terminal for `customers` should print out this:
 
-```
+```bash
 Charging customer with payment of $10 gateway ID: c1gwid
 ```
 
